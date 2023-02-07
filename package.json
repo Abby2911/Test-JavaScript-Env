@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de prueba ES6 para node",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abby2911/Test-JavaScript-Env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "Vanney Landin",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Abby2911/Test-JavaScript-Env/issues"
+  },
+  "homepage": "https://github.com/Abby2911/Test-JavaScript-Env#readme"
+}
